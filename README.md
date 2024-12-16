@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **@Eslam-Al-Dabawi (Semo)**, a passionate self-taught programmer and technology enthusiast. I love solving problems and building projects that make an impact.
+Welcome to my GitHub profile! I'm **Eslam-Al-Dabawi (Semo)**, a passionate self-taught programmer and technology enthusiast. I love solving problems and building projects that make an impact.
 
 ---
 
