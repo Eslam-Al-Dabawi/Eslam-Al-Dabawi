@@ -39,7 +39,18 @@ I am currently focused on establishing a solid foundation in computer science an
 
 ---
 
-## 📂 My Projects
+### 📂 My Projects
+
+Here are some of the projects demonstrating my proficiency in foundational web development and architecture planning:
+
+| Project | Description & Focus | Repository | Live Demo |
+| :--- | :--- | :--- | :--- |
+| 🚀 **VistaBoard** | Dashboard UI Architecture Prototype (WIP). Focus on CSS Grid, Scalability, and Enterprise Planning. | [Repo](https://github.com/Eslam-Al-Dabawi/vista-board) | [Demo](https://eslam-al-dabawi.github.io/vista-board/) |
+| 🎨 **Semo Template** | Comprehensive Responsive Layout. Focus on Complex Flexbox, Multi-Section Design Mastery (15+ Sections). | [Repo](https://github.com/Eslam-Al-Dabawi/semo-tamplate) | [Demo](https://eslam-al-dabawi.github.io/semo-tamplate/) |
+| 🏢 **Agency Template** | Business Agency Template. Focus on Semantic HTML, Advanced CSS Layouts, and Visual Hierarchy. | [Repo](https://github.com/Eslam-Al-Dabawi/html-css-template-two) | [Demo](https://eslam-al-dabawi.github.io/html-css-template-two/) |
+| 🖼️ **Portfolio Template** | Foundational Landing Page. Focus on Clean Code and Responsive Fundamentals. | [Repo](https://github.com/Eslam-Al-Dabawi/html-css-template-one) | [Demo](https://eslam-al-dabawi.github.io/html-css-template-one/) |
+
+---
 
 ---
 
