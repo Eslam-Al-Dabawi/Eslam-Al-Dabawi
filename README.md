@@ -52,8 +52,6 @@ Here are some of the projects demonstrating my proficiency in foundational web d
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 ![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eslam-Al-Dabawi&show_icons=true&theme=radical&hide_border=true)  
