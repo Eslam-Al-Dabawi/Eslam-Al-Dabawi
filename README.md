@@ -67,5 +67,5 @@ Here are some of the projects demonstrating my proficiency in foundational web d
 ---
 
 ## 🤝 Let's Connect
-- 📧 Email: Eslam.Dabawi@gmail.com   
-- 💼 [LinkedIn](https://www.linkedin.com/in/eslam-al-dabawi)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-al-dabawi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Eslam.Dabawi@gmail.com) 
